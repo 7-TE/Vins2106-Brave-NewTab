@@ -1,1 +1,2 @@
-# Vins2106-Brave-NewTab
+# Brave-NewTab
+ Custom brave new tab
